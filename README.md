@@ -3,7 +3,7 @@ Redes extraidas do diario oficial
 
 As redes disponiveis foram extraidas conforme metodologia proposta em:
 
-* SOARES, Rafael Henrique Santos; FERNANDES, Jorge Henrique Cabral. Análise exploratória da adesão ao Sistema de Seleção Unificada (SiSU) pelas universidades federais por meio da Análise de Redes Sociais mapeadas a partir de dados abertos. InCID: Revista de Ciência da Informação e Documentação, Brasil, v. 7, n. 1, p. 181-200, apr. 2016. ISSN 2178-2075. Disponível em: <http://www.revistas.usp.br/incid/article/view/76282>. Acesso em: 20 may 2016. doi:http://dx.doi.org/10.11606/issn.2178-2075.v7i1p181-200.
+* SOARES, Rafael Henrique Santos; FERNANDES, Jorge Henrique Cabral. Análise exploratória da adesão ao Sistema de Seleção Unificada (SiSU) pelas universidades federais por meio da Análise de Redes Sociais mapeadas a partir de dados abertos. InCID: Revista de Ciência da Informação e Documentação, Brasil, v. 7, n. 1, p. 181-200, apr. 2016. ISSN 2178-2075. Disponível em: <http://www.revistas.usp.br/incid/article/view/76282>. 
 e
 * SOARES, Rafael Henrique Santos. Métodos para análise da comunicação e mediação da informação em organizações públicas por meio de redes sociais mapeadas a partir de publicações oficiais. 2014. 155 f., il. Dissertação (Mestrado em Ciência da Informação) - Universidade de Brasília, Brasília, 2014.
 
